@@ -38,4 +38,3 @@ console.log(idadeUsuario);
 if(idadeUsuario >=18) {
     alert('Pode tirar a habilitação')
 };
-
